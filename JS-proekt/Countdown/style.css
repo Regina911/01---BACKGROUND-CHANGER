@@ -1,0 +1,9 @@
+.countdown {
+    display: flex;
+}
+.countdown-item {
+    background-color: blueviolet;
+    padding: 20px;
+    color: aliceblue;
+    margin: 10px;
+}
